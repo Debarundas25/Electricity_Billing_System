@@ -1,0 +1,1 @@
+ This is a simple Electricity Billing System in Java that calculates the electricity bill based on the number of units consumed. It includes basic features like customer details, units consumed, rate per unit, and the total bill.
